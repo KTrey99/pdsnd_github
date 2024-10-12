@@ -19,3 +19,8 @@ This project is designed to analyze bikeshare data, providing insights into bike
 ### Credits
 Inspired by [pdsnd_github](https://github.com/udacity/pdsnd_github)
 
+### Contribution guidelines
+
+If you find any bugs or have feature requests, please open an issue in the issue tracker. Be sure to provide detailed information so that the issue can be resolved promptly.
+
+### Add usage instructions
