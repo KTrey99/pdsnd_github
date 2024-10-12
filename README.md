@@ -17,5 +17,5 @@ This project is designed to analyze bikeshare data, providing insights into bike
 `README.md`: Documentation file for the project.
 
 ### Credits
-
+Inspired by [pdsnd_github](https://github.com/udacity/pdsnd_github)
 
