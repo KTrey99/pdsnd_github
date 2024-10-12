@@ -8,7 +8,7 @@ Udacity Version Control Project with Git
 
 ### Description
 
-
+This project is designed to analyze bikeshare data, providing insights into bike usage patterns and helping users find the best times and locations for biking.
 ### Files used
 
 
