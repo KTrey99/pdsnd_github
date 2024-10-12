@@ -25,6 +25,6 @@ If you find any bugs or have feature requests, please open an issue in the issue
 
 ### Features
 
-Analyze bikeshare data for various cities
-Filter data by city, month, or day
-View user statistics
+*Analyze bikeshare data for various cities
+*Filter data by city, month, or day
+*View user statistics
