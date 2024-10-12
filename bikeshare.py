@@ -186,7 +186,7 @@ def display_raw_data(df):
          while True:
     print(df.iloc[start_loc:start_loc+5])  # Show 5 rows at a time
            start_loc += 5
-           more = input("Do you want to see more? Type 'yes' or 'no': ").lower()
+           more = input("Do you want to see more data? Type 'yes' or 'no': ").lower()
        if more != 'yes':
                     break
 
