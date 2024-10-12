@@ -1,7 +1,7 @@
 # This are the links that i used to take help for solving the below project.
 # https://www.python-course.eu/python3_input.php
-# https://peps.python.org/pep-0257/
 # https://github.com/beingjainparas/Udacity-Explore_US_Bikeshare_Data/blob/master/bikeshare_2.py#L210
+
 
 import time
 import pandas as pd
@@ -186,7 +186,7 @@ def display_raw_data(df):
          while True:
     print(df.iloc[start_loc:start_loc+5])  # Show 5 rows at a time
            start_loc += 5
-           more = input("Do you want to see more? Type 'yes' or 'no': ").lower()
+           more = input("Do you want to see more data? Type 'yes' or 'no': ").lower()
        if more != 'yes':
                     break
 
